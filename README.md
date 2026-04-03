@@ -1,2 +1,2 @@
 # Honors Project | Predicting Intercranial Aneurysm Rupture Risk using Machine learning: A Comparative Study of Clinical Data and MRI Image-Based Biomarkers.
-This is a project associated with University of Dundee in school of biomedical engineering as in 4th year project.
+This project investigates and compares the predictive performance of machine learning models using two distinct data modalities for intracranial aneurysm risk prediction: (1) clinical-based data (demographic and routine health features) and (2) MRI-based data (imaging-derived morphological features from T2, SWI, and DWI sequences).
